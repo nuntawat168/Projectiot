@@ -28,6 +28,12 @@ header,
 .textice{
     font-family:'Varela Round';
     font-size: 5rem;
+
+}
+.textice2{
+    font-family:'Varela Round';
+    font-size: 5rem;
+    color:#161616;
 }
 
 #mainNav{min-height:56px;background-color:#fff}
